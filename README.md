@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi! peruvian mathematician here
+
+my interest are very wide
+
 
 <!--
 **entropy-friend/entropy-friend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
